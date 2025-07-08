@@ -20,6 +20,15 @@ This project transmits a continuous complex sine wave at **100 kHz baseband freq
 
 
 ---
+## output
+
+
+### Time-Domain Signal (Received)
+![Time-Domain Plot](time_domain_graph.png)
+
+### Frequency-Domain Spectrum
+![Frequency-Domain Plot](frequency_graph.png)
+
 
 ## Requirements
 
